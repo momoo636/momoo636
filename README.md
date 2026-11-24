@@ -19,4 +19,5 @@ I'm from Odisha, India. I have completed internships in Java Full Stack, Service
 - Software Engineering, Infosys Springboard
 
 ## Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxmo8071@gmail.com)
+📧 mxmo8071@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mamata-sahu)
